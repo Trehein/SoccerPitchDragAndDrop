@@ -1,1 +1,1 @@
-# SoccerPitchDragAndDrop
+# next-demo-app
