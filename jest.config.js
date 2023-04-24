@@ -8,6 +8,7 @@ module.exports = {
     '!**/*.d.ts',
     '!**/node_modules/**',
     '!**/e2e/**',
+    '!**/styles/**',
     '!<rootDir>/out/**',
     '!<rootDir>/.next/**',
     '!<rootDir>/*.config.js',
